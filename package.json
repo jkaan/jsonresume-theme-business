@@ -1,0 +1,14 @@
+{
+  "name": "jsonresume-theme-business",
+  "version": "0.0.1",
+  "description": "A very serious theme for JSON Resume",
+  "author": "Joey Kaan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkaan/jsonresume-theme-business.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
+  }
+}
